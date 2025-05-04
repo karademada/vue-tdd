@@ -1,0 +1,9 @@
+{
+  "cSpell.ignoreWords": ["autodocs", "epreston"],
+  "cSpell.words": ["pinia", "Vetur", "Vite", "Volar", "vuejs"],
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "eslint.validate": ["javascript", "vue"]
+}
